@@ -30,3 +30,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elie-mendy&show_icons=true&locale=en&layout=compact&theme=tokyonight"" alt="elie-mendy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elie-mendy&show_icons=true&locale=en&theme=tokyonight"" alt="elie-mendy" /></p>
+<br/>
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+![alyra](https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/2d59e942-17d5-4898-99ba-9473551fb64d)
+
