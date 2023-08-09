@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Elie</h1>
-<h3 align="center">A passionate Web3 frontend developer from France</h3>
+<h3 align="center">A passionate Full Stack Developer - Blockchain (Ethereum / solidity) from France</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elie-mendy&label=Profile%20views&color=0e75b6&style=flat" alt="elie-mendy" /> </p>
