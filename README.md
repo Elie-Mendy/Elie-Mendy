@@ -35,16 +35,16 @@
 <p align="left"> 
     <a href="https://ethereum.org/fr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="android" width="40" height="40"/> </a> 
     <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/579px-Solidity_logo.svg.png" alt="android" width="40" height="40"/> </a> 
-    <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"> ![truffle](https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/3cab2808-2fee-4b55-9b25-118b6bf2d8f1) </a> 
-    <a href="https://trufflesuite.com/blog/introducing-ganache-7/" target="_blank" rel="noreferrer"> ![ganache](https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/38a12071-0293-4d56-8e5a-95ddb3d0e9fe) </a> 
-    <a href="https://hardhat.org" target="_blank" rel="noreferrer"> ![hardhat](https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/292460a2-311b-4dff-bd68-ed5192cd3c0f) </a> 
+    <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/3cab2808-2fee-4b55-9b25-118b6bf2d8f1"/> </a> 
+    <a href="https://trufflesuite.com/blog/introducing-ganache-7/" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/38a12071-0293-4d56-8e5a-95ddb3d0e9fe"/> </a> 
+    <a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/292460a2-311b-4dff-bd68-ed5192cd3c0f"/> </a> 
     <a href="https://book.getfoundry.sh" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6364e65656ab107e465325d2/637aed6751438b58df4f23db_vsOHSnFCWFd7F4FKD3WyqVs5OL1bbnm-OYI7HxjENC8.png" alt="android" width="40" height="40"/> </a> 
     <a href="https://web3js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/413f1762-bc15-490c-ae6c-fd54aeab5c19" alt="android" width="40" height="40"/> </a> 
-    <a href="[https://web3js.org](https://docs.ethers.org/v5/)" target="_blank" rel="noreferrer"> ![ethers](https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/fc71cac8-131b-4fcd-8e32-7654b32617eb) </a> 
+    <a href="[https://web3js.org](https://docs.ethers.org/v5/)" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/fc71cac8-131b-4fcd-8e32-7654b32617eb"/> </a> 
     <a href="https://wagmi.sh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-dark.svg" alt="android" width="40" height="40"/> </a> 
     <a href="https://viem.sh" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/1da9e39a-cf71-4139-bbe9-ff726a85358c" alt="android" width="40" height="40"/> </a> 
     <a href="https://www.rainbowkit.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/6de8c661-549b-4561-9745-4eff3d6216d9" alt="android" width="40" height="40"/> </a> 
-    <a href="https://walletconnect.com" target="_blank" rel="noreferrer"> ![walletconnect](https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/9d6e87b8-ba16-44ff-bc09-d33fa1b96788) </a> 
+    <a href="https://walletconnect.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/9d6e87b8-ba16-44ff-bc09-d33fa1b96788"/> </a> 
 </p>
 
 
