@@ -47,7 +47,7 @@
     <a href="https://wagmi.sh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-dark.svg" alt="android" width="40" height="40"/> </a> 
     <a href="https://viem.sh" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/1da9e39a-cf71-4139-bbe9-ff726a85358c" alt="android" width="40" height="40"/> </a> 
     <a href="https://www.rainbowkit.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/6de8c661-549b-4561-9745-4eff3d6216d9" alt="android" width="40" height="40"/> </a> 
-    <a href="https://walletconnect.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/26d12f5d-9fc8-4a71-84d9-d1b03b8a9867"/> </a> 
+    <a href="https://walletconnect.com" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/26d12f5d-9fc8-4a71-84d9-d1b03b8a9867"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
