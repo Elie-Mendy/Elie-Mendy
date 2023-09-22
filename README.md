@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eliemendy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eliemendy" height="30" width="40" /></a>
+<a href="https://twitter.com/eliemendy" target="blank"><img align="center" src="https://github.com/Elie-Mendy/Elie-Mendy/assets/56347880/f1180cc6-3d9a-46cd-b578-5179653b4ed2" alt="eliemendy" height="32" width="32" /></a>
 <a href="https://linkedin.com/in/mendy-elie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mendy-elie" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21883617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21883617" height="30" width="40" /></a>
 <a href="https://instagram.com/elie_mendy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elie_mendy" height="30" width="40" /></a>
@@ -70,3 +70,7 @@
 
 <!-- 
 https://github.com/anuraghazra/github-readme-stats#adding-private-contributions-count-to-total-commits-count -->
+
+
+
+
